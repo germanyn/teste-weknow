@@ -1,0 +1,1 @@
+export const obrigatorio = (valor) => !!valor || 'Obrigatório'
